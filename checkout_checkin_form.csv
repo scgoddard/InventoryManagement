@@ -1,0 +1,14 @@
+Field Name,Value,Instructions
+Transaction Type,,Enter: CHECK-OUT or CHECK-IN
+Transaction Date,,Format: YYYY-MM-DD
+Serial Number,,Enter the equipment serial number (e.g. SN-ACU-001)
+Item Name,,Enter the full item name
+User ID,,Enter User ID (e.g. U001)
+User Name,,Enter full name with rank (e.g. SGT James Mitchell)
+User Email,,Enter army.mil email address
+Due Date,,Format: YYYY-MM-DD (only for check-outs)
+Check-In Date,,Format: YYYY-MM-DD (only for check-ins)
+Equipment Condition,,Enter: Excellent/Good/Fair/Poor/Damaged
+Notes,,Any additional comments or observations
+Authorized By,,Name and rank of authorizing personnel
+Signature,,Digital signature or initials

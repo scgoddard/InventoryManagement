@@ -1,0 +1,16 @@
+Serial Number,Item Name,Category,Shop Location,Status,Current User,Due Date
+SN-ACU-001,Army Combat Uniform (OCP) Medium-Regular,Uniforms,Supply Room A,Checked Out,U001,2025-12-05
+SN-ACU-002,Army Combat Uniform (OCP) Large-Long,Uniforms,Supply Room A,Available,,
+SN-ACU-003,Army Combat Uniform (OCP) Small-Short,Uniforms,Supply Room A,Checked Out,U003,2025-11-30
+SN-BOOT-001,Combat Boots Size 10,Footwear,Supply Room B,Available,,
+SN-BOOT-002,Combat Boots Size 9,Footwear,Supply Room B,Checked Out,U002,2025-11-28
+SN-BOOT-003,Combat Boots Size 11,Footwear,Supply Room B,Overdue,U004,2025-11-20
+SN-CAP-001,Patrol Cap OCP Medium,Headgear,Supply Room A,Available,,
+SN-CAP-002,Patrol Cap OCP Large,Headgear,Supply Room A,Checked Out,U005,2025-12-10
+SN-JKT-001,ECWCS Parka Level 6 Medium,Outerwear,Supply Room C,Maintenance,,
+SN-JKT-002,ECWCS Parka Level 6 Large,Outerwear,Supply Room C,Available,,
+SN-BELT-001,Rigger Belt Tan Medium,Accessories,Supply Room A,Checked Out,U006,2025-12-01
+SN-GLV-001,Combat Gloves Leather Medium,Accessories,Supply Room B,Available,,
+SN-GLV-002,Combat Gloves Leather Large,Accessories,Supply Room B,Lost,,
+SN-RUCK-001,MOLLE II Rucksack Main Pack,Field Gear,Supply Room C,Checked Out,U007,2025-12-15
+SN-RUCK-002,MOLLE II Rucksack Main Pack,Field Gear,Supply Room C,Available,,

@@ -1,0 +1,11 @@
+Transaction ID,Serial Number,Item Name,User Name,Check-Out Date,Due Date,Check-In Date,Status
+TXN-001,SN-ACU-001,Army Combat Uniform (OCP) Medium-Regular,SGT James Mitchell,2025-11-20,2025-12-05,,Active
+TXN-002,SN-BOOT-002,Combat Boots Size 9,SPC Sarah Johnson,2025-11-18,2025-11-28,,Active
+TXN-003,SN-ACU-003,Army Combat Uniform (OCP) Small-Short,CPL Michael Rodriguez,2025-11-15,2025-11-30,,Active
+TXN-004,SN-BOOT-003,Combat Boots Size 11,PFC Emily Chen,2025-11-05,2025-11-20,,Overdue
+TXN-005,SN-CAP-002,Patrol Cap OCP Large,SSG David Thompson,2025-11-22,2025-12-10,,Active
+TXN-006,SN-BELT-001,Rigger Belt Tan Medium,SPC Maria Garcia,2025-11-18,2025-12-01,,Active
+TXN-007,SN-RUCK-001,MOLLE II Rucksack Main Pack,CPL Robert Anderson,2025-11-23,2025-12-15,,Active
+TXN-008,SN-BOOT-001,Combat Boots Size 10,PFC Jennifer Williams,2025-11-01,2025-11-15,2025-11-14,Completed
+TXN-009,SN-ACU-002,Army Combat Uniform (OCP) Large-Long,SGT James Mitchell,2025-11-08,2025-11-22,2025-11-21,Completed
+TXN-010,SN-GLV-001,Combat Gloves Leather Medium,SPC Sarah Johnson,2025-11-10,2025-11-24,2025-11-23,Completed
