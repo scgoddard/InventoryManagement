@@ -1,0 +1,4 @@
+Timestamp,NCO Name,NCO Email,Transaction Type,Serial Number,User ID,User Name,User Email,Checkout Date,Due Date,Equipment Condition,Notes
+2025-12-01 09:15:30,SSG David Thompson,david.thompson@army.mil,CHECK-OUT,SN-ACU-001,U001,SGT James Mitchell,james.mitchell@army.mil,2025-12-01,2025-12-15,Excellent,Issued for field training exercise
+2025-12-01 10:22:45,SSG David Thompson,david.thompson@army.mil,CHECK-OUT,SN-BOOT-002,U002,SPC Sarah Johnson,sarah.johnson@army.mil,2025-12-01,2025-12-10,Good,Standard issue
+2025-12-01 14:30:15,SSG David Thompson,david.thompson@army.mil,CHECK-IN,SN-ACU-002,U003,CPL Michael Rodriguez,michael.rodriguez@army.mil,2025-12-01,,Excellent,Returned from deployment
